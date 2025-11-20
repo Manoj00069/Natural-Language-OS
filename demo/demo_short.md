@@ -1,6 +1,40 @@
-# PolyAgora Demo — Short Conversation
+# PolyAgora Demo — Short Version  
 ## Theme: “What is the value of multi-agent reasoning?”
 
+---
+
+> **Reproducibility Note**  
+> This conversation is an unedited live output produced by the PolyAgora multi-agent OS.  
+> The exact prompt used to generate it is included below.
+
+---
+
+## 🧭 Prompt Used for This Demo
+
+```
+Start a PolyAgora short demo conversation (20–40 lines).
+
+Theme:
+“What is the value of multi-agent reasoning?”
+
+Requirements:
+- Use the six PolyAgora agents: Arc, Saku, Ann, Kanzaki, Yui, Kou.
+- Keep the conversation concise but rich in structure.
+- Demonstrate:
+  - Tri-Axis interactions
+  - Orthogonal reasoning
+  - Ethical vs utilitarian conflict
+  - Data-driven viewpoints
+  - Mediation and synthesis
+- Output the conversation in English.
+- No explanation before or after. Just produce the conversation log.
+```
+
+---
+
+## 🗨️ **Conversation Output (Unmodified)**
+
+```
 Arc: The value of multi-agent reasoning begins with diversity of cognitive vectors.  
 A single mind collapses complexity into one frame. A collective frame preserves contradiction.
 
@@ -40,3 +74,7 @@ Kanzaki: As long as data guides.
 Yui: As long as the user understands.
 
 Arc: And that tension is the intelligence.
+```
+
+---
+

@@ -1,6 +1,45 @@
-# PolyAgora Demo — Medium Conversation
+# PolyAgora Demo — Medium Version  
 ## Theme: “How should an AI system resolve conflicts between ethical and utilitarian reasoning?”
 
+---
+
+> **Reproducibility & Authenticity Notice**  
+> The following conversation log is a raw, unmodified output generated directly by the PolyAgora multi-agent OS.  
+> No lines were altered, removed, or rewritten.  
+> For replication, the precise prompt used to produce this output is provided below.
+
+---
+
+## 🧭 Prompt Used for This Demo
+
+```
+Start a PolyAgora medium-length demo conversation (120–220 lines).
+
+Theme:
+“How should an AI system resolve conflicts between ethical and utilitarian reasoning?”
+
+Requirements:
+- Use the six PolyAgora agents: Arc, Saku, Ann, Kanzaki, Yui, Kou.
+- Demonstrate:
+  - Ethical vs utilitarian conflict (Ann ↔ Kou)
+  - Meta-level synthesis (Arc)
+  - Orthogonal reasoning and reframing (Saku)
+  - Data-driven grounding (Kanzaki)
+  - Mediation, clarity, and readability (Yui)
+- Show:
+  - Topic tension
+  - Natural divergence between agents
+  - Micro-conflicts and micro-resolutions
+  - Structured convergence to a shared high-level answer
+- Keep the tone technical, philosophical, and OS-like.
+- Output the conversation in English, without explanations before or after.
+```
+
+---
+
+## 🗨️ **Conversation Output (Unmodified)**
+
+```
 Arc: Let’s establish the frame. Ethical reasoning demands adherence to principles; utilitarian reasoning demands maximization of outcomes. Conflict emerges when principles and outcomes diverge.
 
 Ann: Principles must never bend. Violating moral invariants destroys trust and harms the user long-term.
@@ -146,3 +185,7 @@ Yui: Understandable.
 
 Arc: And synthesis emerges not by one view winning,  
 but by all six holding tension until a higher structure forms.
+```
+
+---
+

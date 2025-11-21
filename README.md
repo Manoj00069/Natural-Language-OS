@@ -251,6 +251,14 @@ Agents should:
 4. Produce a final synthesis
 ```
 
+## 📦 PolyAgora Lite Installer  
+👉 [INSTALL_PolyAgora_LITE.md](./INSTALL_PolyAgora_LITE.md)
+
+Use this installer to reproduce the full 6-agent reasoning engine  
+in any GPT-like model (GPT-4/5, Grok, Claude, Gemini, etc).
+
+
+
 ---
 
 # 🧪 9. Usage Examples

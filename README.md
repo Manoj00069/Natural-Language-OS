@@ -82,7 +82,7 @@ From now on, structure your reasoning according to my cognitive patterns:
 
 The full technical specification is available at:
 
-/whitepaper/ArcOS-Whitepaper-v1.1.md
+/whitepaper/ArcOS-Whitepaper-v1.1.pdf
 
 ---
 

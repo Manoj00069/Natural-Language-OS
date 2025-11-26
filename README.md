@@ -5,7 +5,7 @@ An operating system that reproduces your own cognitive structure and executes it
 
 **Concept by:** Masaya Ochiai  
 **Trademark:** “ArcOS”  
-**License:** CC BY-NC-SA 4.0  
+**License:** CC BY 4.0  
 **Series:** Natural-Language OS Series (ArcOS / PolyAgora / ECHOOS)
 
 ---
@@ -88,7 +88,7 @@ The full technical specification is available at:
 
 ## 📘 License
 
-This project is released under **CC BY-NC-SA 4.0**.  
+This project is released under **CC BY 4.0**.  
 See `LICENSE` for details.
 
 ---

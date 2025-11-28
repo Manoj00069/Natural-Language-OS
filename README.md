@@ -5,7 +5,7 @@
 
 **Concept by:** Masaya Ochiai  
 **Engineered with:** ChatGPT 5.1  
-**License:** Apache 2.0 (code) + CC BY 4.0 (docs)  
+**License:** CC BY 4.0 
 **Trademarks:** “PolyAgora”, “Cognitive Collective Engine”, “Tri-Axis Architecture”
 
 ---
@@ -436,8 +436,8 @@ PolyAgora **is**:
 
 # 📄 12. License (Detailed)
 
-- **Code:** Apache License 2.0  
-- **Documentation:** CC BY 4.0  
+This project is released under CC BY 4.0.
+See the LICENSE file for full details.
 - **Trademarks:** Informal attribution requested; not enforced.
 
 ---

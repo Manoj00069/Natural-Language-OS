@@ -195,7 +195,7 @@ It is a full **OS written in language**.
 
 **Masaya Ochiai (2025)**  
 Creator of ArcOS, PolyAgora, Echoos, NL-OS taxonomy  
-X: https://twitter.com/polyagora6
+X: https://x.com/NaturalLangOS
 
 ---
 

